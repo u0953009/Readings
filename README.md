@@ -1,18 +1,27 @@
 # Paper Reading List
 ## Review Paper
 Kudithipudi, D., Biological underpinnings for lifelong learning machines, 2022
+
 Miikkulainen R., et al., A biological perspective on evolutionary computation, 2021
+
 Khetarpal, K., et al., Towards Continual Reinforcement Learning: A Review and Perspectives, 2020
+
 Lindsay, G. W., Attention in Psychology, Neuroscience, and Machine Learning, 2020
 
-
 Stanley K. O. et al., Designing neural networks through neuroevolution, 2019
+
 Neftci, E. O., et al., Reinforcement learning in artificial and biological systems, 2019
+
 Gottlieb, J. et al., Towards a neuroscience of active sampling and curiosity, 2018
+
 Soltoggio, A. et al., Born to Learn: the Inspiration, Progress, and Future of Evolved Plastic Artificial Neural Networks, 2018
+
 Hassabis, D. et al., Neuroscience-Inspired Artificial Intelligence, 2017
+
 Yann LeCun et al., Deep learning, 2015 
+
 University of Washington., The History of Artificial Intelligence, 2006
+
 
 ## Research Paper
 Evolutionary Computation
