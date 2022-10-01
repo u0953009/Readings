@@ -42,8 +42,3 @@ A. M. Turing., COMPUTING MACHINERY AND INTELLIGENCE, 1950
 John Jumper et al., Highly accurate protein structure prediction with AlphaFold, 2021
 David E. Rumelhart et al., Learning representations by back-propagating errors, 1986 
 Sara Sabour et al., Dynamic Routing Between Capsules, 2017
-
-
-
-
-
