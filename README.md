@@ -19,7 +19,7 @@ Neftci, E. O., et al., Reinforcement learning in artificial and biological syste
 -Reinforcement Learning, Neuroscience
 
 Gottlieb, J. et al., Towards a neuroscience of active sampling and curiosity, 2018
--
+-Neuroscience
 
 Soltoggio, A. et al., Born to Learn: the Inspiration, Progress, and Future of Evolved Plastic Artificial Neural Networks, 2018
 -Evolutionary Computation
