@@ -129,6 +129,8 @@ Brna, AP. et al., Uncertainty-based Modulation for Lifelong Learning, 2019
 Stephen Grossberg., Adaptive Resonance Theory: How a brain learns to consciously attend, learn, and recognize a changing world, 2013
 -Brain theory, Complementry, Uncertainty
 
-
+ 
+ 
+ 
 
 
